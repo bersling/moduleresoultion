@@ -1,0 +1,15 @@
+{
+    "compilerOptions":
+    {
+        "outDir": "js",
+        "allowJs": true,
+        "target": "ES6",
+        "allowSyntheticDefaultImports": true,
+		"sourceMap": true,
+        "moduleResolution": "node"
+    },
+    "include":
+    [
+        "./ts/**/*"
+    ]
+}
